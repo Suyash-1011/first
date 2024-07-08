@@ -1,0 +1,1 @@
+This is a rather simple project made with the aim of understanding the fundamentals of neural networks and deep learning. Keeping this aim in mind I preferred to create everything from scratch using only python and numpy as my tools. It was a method to encapsulate my learning into a practical implementation  
